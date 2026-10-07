@@ -1,0 +1,263 @@
+<USER_REQUEST>
+TEST!!!
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T17:57:13+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+Cursor is on line: 10
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/.gemini/antigravity-ide/builtin/skills/agy-customizations/docs/hooks.md (LANGUAGE_MARKDOWN)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/skills/intro/SKILL.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+TEST!!!
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T17:57:13+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+Cursor is on line: 10
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/.gemini/antigravity-ide/builtin/skills/agy-customizations/docs/hooks.md (LANGUAGE_MARKDOWN)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/skills/intro/SKILL.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+And I want to ignore from agent to read chat.log file 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T17:58:17+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+Cursor is on line: 1
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/chat.log (LANGUAGE_UNSPECIFIED)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/skills/intro/SKILL.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+And I want to ignore from agent to read chat.log file 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T17:58:17+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+Cursor is on line: 1
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/chat.log (LANGUAGE_UNSPECIFIED)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/skills/intro/SKILL.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+And I want to ignore from agent to read chat.log file 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T17:58:17+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+Cursor is on line: 1
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/chat.log (LANGUAGE_UNSPECIFIED)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/skills/intro/SKILL.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+And I want to ignore from agent to read chat.log file 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T17:58:17+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+Cursor is on line: 1
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/chat.log (LANGUAGE_UNSPECIFIED)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/skills/intro/SKILL.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+And I want to ignore from agent to read chat.log file 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T17:58:17+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+Cursor is on line: 1
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/chat.log (LANGUAGE_UNSPECIFIED)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/skills/intro/SKILL.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+And I want to ignore from agent to read chat.log file 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T17:58:17+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+Cursor is on line: 1
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/chat.log (LANGUAGE_UNSPECIFIED)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/skills/intro/SKILL.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+And I want to ignore from agent to read chat.log file 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T17:58:17+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+Cursor is on line: 1
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/chat.log (LANGUAGE_UNSPECIFIED)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/skills/intro/SKILL.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+there is no way like gitignore?
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T18:00:15+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 8
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/block_chat_log.py (LANGUAGE_PYTHON)
+- /Users/naxalov/.gemini/antigravity-ide/builtin/skills/agy-customizations/docs/rules.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+there is no way like gitignore?
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T18:00:15+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 8
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/block_chat_log.py (LANGUAGE_PYTHON)
+- /Users/naxalov/.gemini/antigravity-ide/builtin/skills/agy-customizations/docs/rules.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+there is no way like gitignore?
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T18:00:15+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 8
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/block_chat_log.py (LANGUAGE_PYTHON)
+- /Users/naxalov/.gemini/antigravity-ide/builtin/skills/agy-customizations/docs/rules.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+there is no way like gitignore?
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T18:00:15+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 8
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/block_chat_log.py (LANGUAGE_PYTHON)
+- /Users/naxalov/.gemini/antigravity-ide/builtin/skills/agy-customizations/docs/rules.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+there is no way like gitignore?
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T18:00:15+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 8
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/block_chat_log.py (LANGUAGE_PYTHON)
+- /Users/naxalov/.gemini/antigravity-ide/builtin/skills/agy-customizations/docs/rules.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+there is no way like gitignore?
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T18:00:15+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 8
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/block_chat_log.py (LANGUAGE_PYTHON)
+- /Users/naxalov/.gemini/antigravity-ide/builtin/skills/agy-customizations/docs/rules.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
+<USER_REQUEST>
+/tools
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-07T18:04:46+05:00.
+
+The user's current state is as follows:
+Active Document: /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 7
+Other open documents:
+- /Users/naxalov/github/antigravity_ide_intro/AGENTS.md (LANGUAGE_MARKDOWN)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/hooks.json (LANGUAGE_JSON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/log_chat.py (LANGUAGE_PYTHON)
+- /Users/naxalov/github/antigravity_ide_intro/.agents/scripts/block_chat_log.py (LANGUAGE_PYTHON)
+- /Users/naxalov/.gemini/antigravity-ide/builtin/skills/agy-customizations/docs/rules.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+---
